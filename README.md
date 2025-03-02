@@ -1,9 +1,9 @@
 # PDFGenie - AI Chatbot for PDF Files
 
-![PDFGenie Bot](botImage.png)
-
 PDFGenie is an AI-powered chatbot that allows users to interact with the contents of PDF documents by asking questions. It utilizes advanced natural language processing (NLP) and machine learning models to understand and respond to queries based on the uploaded PDF. PDFGenie uses **LangChain**, **FAISS**, and **Hugging Face** transformers to process and retrieve information from PDFs in real-time.
 
+
+![PDFGenie Bot](botImage.png)
 
 
 ## Features
