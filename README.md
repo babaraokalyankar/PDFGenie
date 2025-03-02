@@ -5,6 +5,8 @@
 </div>
 
 
+
+
 PDFGenie is an AI-powered chatbot that allows users to interact with the contents of PDF documents by asking questions. It utilizes advanced natural language processing (NLP) and machine learning models from Hugging Face to understand and respond to queries based on the content of uploaded PDF files. PDFGenie uses LangChain, FAISS, and Hugging Face transformers to process and retrieve information from PDFs in real-time.
 
 ## Features
