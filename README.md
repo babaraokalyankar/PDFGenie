@@ -1,23 +1,20 @@
-# PDFGenie - AI Chatbot for PDF File
+# PDFGenie - AI Chatbot for PDF Files
 
 <div style="border: 5px solid #4CAF50; padding: 15px; text-align: center; width: fit-content; margin: 20px auto;">
     <img src="botImage.png" alt="PDFGenie Bot" style="max-width: 100%; height: auto; border-radius: 10px;">
 </div>
 
-
-
-
-PDFGenie is an AI-powered chatbot that allows users to interact with the contents of PDF documents by asking questions. It utilizes advanced natural language processing (NLP) and machine learning models from Hugging Face to understand and respond to queries based on the content of uploaded PDF files. PDFGenie uses LangChain, FAISS, and Hugging Face transformers to process and retrieve information from PDFs in real-time.
+PDFGenie is an AI-powered chatbot that allows users to interact with the contents of PDF documents by asking questions. It uses natural language processing (NLP) and machine learning models to understand and respond to queries based on the content of the uploaded PDF.
 
 ## Features
 
-- **PDF Text Extraction**: Extracts text from PDF files, including scanned documents.
-- **Text Chunking**: Splits the extracted text into smaller, digestible chunks for efficient processing.
-- **Vector Store**: Uses FAISS to index and search the text chunks quickly.
-- **Question-Answering (QA)**: Uses the Mistral-7B LLM from Hugging Face to answer questions based on the PDF content.
-- **Interactive Chatbot**: Users can ask questions, and the chatbot will provide answers based on the content of the uploaded PDF.
+- **PDF Text Extraction**: Extracts text from PDF files.
+- **Text Chunking**: Splits text into smaller chunks.
+- **Vector Store**: Uses FAISS for fast search.
+- **Question-Answering**: Uses Mistral-7B for answering questions.
 
-## Prerequisites
+...
+
 
 Ensure you have the following installed:
 
