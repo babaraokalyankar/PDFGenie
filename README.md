@@ -18,13 +18,3 @@ Ensure you have the following installed:
 - pip (Python package manager)
 
 Additionally, you need a Hugging Face account and an API token to access the pre-trained models.
-
-## Installation
-
-### Step 1: Clone the repository
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/pdfgenie.git
-cd pdfgenie
